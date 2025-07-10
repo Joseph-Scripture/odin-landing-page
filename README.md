@@ -8,3 +8,7 @@ A landing page with HTML and CSS
 ## Shout outs
 -all images are gotten from unsplash.com
 -contact photographers https://unsplash.com/@sardarkamran128
+-https://unsplash.com/@mariabeatrice
+-https://unsplash.com/@raquelgambin
+-https://unsplash.com/@tamarabellis
+-https://unsplash.com/@postcardsfromthewasteland

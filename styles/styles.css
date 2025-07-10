@@ -1,6 +1,12 @@
 
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     font-family: Roboto, sans-serif;
+}
+.complete{
     background-color: #1f2937;
 }
 ul{
@@ -27,13 +33,14 @@ a{
     gap: 10px;
     
 }
-img{
+.img{
     height: auto;
     width: 300px;
 }
 .header-content{
     display: flex;
     justify-content: space-around;
+    /* margin-bottom: 60px; */
 }
 h2.text{
     font-size: 48px;
@@ -58,4 +65,91 @@ h2.text{
     color: whitesmoke;
     border-radius: 10px;
     width: 80px;
+}
+.first{
+    background-color:whitesmoke;
+    height: 600px;
+}
+.product{
+    text-align: center;
+    padding: 40px;
+    font-size: 36px;
+    font-weight: 900;
+}
+.total{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    border-radius: 20px;
+    align-items: center;
+}
+.image1{
+    width: 300px;
+    height: auto;
+    border: 1px solid blueviolet;
+    margin-bottom: 0;
+    
+}
+.second{
+    background-color: #e5e7eb;
+    margin-top: -40px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+.author{
+    font-size: large;
+    font-weight: bold;
+    margin-left: 200px;
+}
+.action{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    color: white;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    width: 1500px;
+    height: 200px;
+    margin-bottom: 30px;
+
+}
+.final{
+    /* padding: 20px; */
+    border: 3px solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 110px;
+    padding: 12px;
+    color: white;
+    background-color: #3882f6;
+    font-size: 18px;
+}
+h4{
+    font-size: 25px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+}
+.action-text{
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    background-color: #1f2937;
+}
+.footer-p{
+    text-align: center;
+    padding: 30px;
+    color: white;
 }
