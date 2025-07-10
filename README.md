@@ -1,2 +1,10 @@
 # odin-landing-page
 A landing page with HTML and CSS
+
+## What I hope to learn by the end of this project
+-Designing HTMl for easy styling
+-Gain proficiency in CSS flexbox
+-Applying different properties and manipulating styles
+## Shout outs
+-all images are gotten from unsplash.com
+-contact photographers https://unsplash.com/@sardarkamran128
