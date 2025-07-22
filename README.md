@@ -12,3 +12,9 @@ A landing page with HTML and CSS
 -https://unsplash.com/@raquelgambin
 -https://unsplash.com/@tamarabellis
 -https://unsplash.com/@postcardsfromthewasteland
+
+
+# How to use 
+- clone the repo at git clone git@github.com:Joseph-Scripture/odin-landing-page.git
+-navigate into the project folder
+-open the index.html file with your browser
